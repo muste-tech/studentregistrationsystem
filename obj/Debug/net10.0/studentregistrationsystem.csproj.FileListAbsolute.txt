@@ -34,3 +34,4 @@ C:\Users\OWNER\OneDrive\Desktop\studentregistrationsystem\obj\Debug\net10.0\refi
 C:\Users\OWNER\OneDrive\Desktop\studentregistrationsystem\obj\Debug\net10.0\studentregistrationsystem.pdb
 C:\Users\OWNER\OneDrive\Desktop\studentregistrationsystem\obj\Debug\net10.0\studentregistrationsystem.genruntimeconfig.cache
 C:\Users\OWNER\OneDrive\Desktop\studentregistrationsystem\obj\Debug\net10.0\ref\studentregistrationsystem.dll
+C:\Users\OWNER\OneDrive\Desktop\studentregistrationsystem\obj\Debug\net10.0\studentregistrationsystem.sourcelink.json
