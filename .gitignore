@@ -473,7 +473,8 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+bin/
+obj/
 # Windows shortcuts
 *.lnk
 Data/
