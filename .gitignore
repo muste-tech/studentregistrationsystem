@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 
-DatabaseHelper
+DatabaseHelper/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -476,7 +476,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-Data
+Data/
 appsettings.json
 appsettings.*.json
 ConnectionStrings.config
