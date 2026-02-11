@@ -479,4 +479,4 @@ $RECYCLE.BIN/
 Data/
 appsettings.json
 appsettings.*.json
-ConnectionStrings.config
+ConnectionStrings.config/
