@@ -7,7 +7,7 @@ namespace StudentREgistationsystem.Data
     {
         private readonly string _connectionstring;
 
-        public DatabaseHelper(string server = "localhost", string database = "studentregistrationsystem", string username = "root", string password = "585502")
+        public DatabaseHelper(string server = "localhost", string database = "studentregistrationsystem", string username = "root", string password = "kkkkkk")
         {
             _connectionstring = $"server={server}; Database ={database}; Username ={username}; Password ={password};";
             TestConnection();
